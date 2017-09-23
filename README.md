@@ -60,13 +60,16 @@ I'm no good at writing sample / filler text, so go write something yourself.
  * [React.js - a JavaScript Library for buidling user interfaces](http://es6-features.org/#ArrayElementFinding)
  * [Vue.js - The Progressive JavaScript Framework](https://vuejs.org/)
 
-## React.js Boilerplate
+
+# React.js 
+
+### React.js Boilerplate
 
  * [Create React App ](https://github.com/facebookincubator/create-react-app)
  * [Next.js is a minimalistic framework for server-rendered React applications.](https://github.com/zeit/next.js/)
  * [Find your perfect React starter project](http://andrewhfarmer.com/starter-project/)
 
-## React.js Modules
+
 
 ### React CSS Framework
 
