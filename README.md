@@ -1,6 +1,7 @@
-# (GitHub-Flavored) Markdown Editor
+# Yondu - Front End Team
+I'm no good at writing sample / filler text, so go write something yourself.
 
-Basic useful feature list:
+## Basic useful feature list:
 
  * Ctrl+S / Cmd+S to save the file
  * Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML
