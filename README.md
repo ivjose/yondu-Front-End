@@ -45,8 +45,8 @@ I'm no good at writing sample / filler text, so go write something yourself.
  * [Bootstrap v4](http://getbootstrap.com/)
  * [Foundation v6](https://foundation.zurb.com/sites/docs/)
  * [Material Design Lite](https://getmdl.io/)
- * [FastShell - HTML5 boilerplated framework + SASS](http://getbootstrap.com/)
- * [Milligram - A minimalist CSS framework](http://getbootstrap.com/)
+ * [FastShell](http://getbootstrap.com/) - HTML5 boilerplated framework + SASS
+ * [Milligram](http://getbootstrap.com/) - A minimalist CSS framework
 
 
 ## javaScript
@@ -57,25 +57,37 @@ I'm no good at writing sample / filler text, so go write something yourself.
 
 ## javaScript Framework
 
- * [React.js - a JavaScript Library for buidling user interfaces](http://es6-features.org/#ArrayElementFinding)
- * [Vue.js - The Progressive JavaScript Framework](https://vuejs.org/)
+ * [react](http://es6-features.org/#ArrayElementFinding) - a JavaScript Library for buidling user interfaces
+ * [preact](https://preactjs.com/) - Fast 3kB alternative to React with the same ES6 API.
+ * [vue](https://vuejs.org/) - The Progressive JavaScript Framework
 
 
 # React.js 
 
+### Learning React
+
+ * [react-express](http://www.react.express/) - the all-in-one guide to modern React application developement
+
 ### React.js Boilerplate
 
- * [Create React App ](https://github.com/facebookincubator/create-react-app)
- * [Next.js is a minimalistic framework for server-rendered React applications.](https://github.com/zeit/next.js/)
- * [Find your perfect React starter project](http://andrewhfarmer.com/starter-project/)
+ * [create-react-app](https://github.com/facebookincubator/create-react-app) - with no build configuration. build by facebookincubator
+ * [next.js](https://github.com/zeit/next.js/) -  is a minimalistic framework for server-rendered React applications.
+ * [starter-project](http://andrewhfarmer.com/starter-project/) -  Find your perfect React starter project
 
+### State Management
 
+ * [redux](http://redux.js.org/) - is a predictable state container for JavaScript apps
+ * [mobx](https://github.com/zeit/next.js/) -  Simple, scalable state management
+
+ ### Redux Modules
+ * [redux-saga](https://github.com/redux-saga/redux-saga) - is a redux middleware
+ 
 
 ### React CSS Framework
 
- * [material-ui - Material-UI is a set of React components that implement Google's Material Design specification.](http://www.material-ui.com/)
- * [reactstrap - Bootstrap v4](https://reactstrap.github.io/)
- * [react-bootstrap - Bootstrap v3](https://react-bootstrap.github.io/)
+ * [material-ui](http://www.material-ui.com/) - Material-UI is a set of React components that implement Google's Material Design specification.
+ * [reactstrap](https://reactstrap.github.io/) - Bootstrap v4
+ * [react-bootstrap](https://react-bootstrap.github.io/) - Bootstrap v3
 
  ### Building UI Components
 
@@ -91,28 +103,31 @@ I'm no good at writing sample / filler text, so go write something yourself.
 
  ### Layout
 
- * [react-flexbox-grid - React(CSS-Modules(flexboxgrid.css));](https://roylee0704.github.io/react-flexbox-grid/https://www.styled-components.com/)
+ * [react-flexbox-grid](https://roylee0704.github.io/react-flexbox-grid/https://www.styled-components.com/) - Flexbox CSS Grid
 
 ### Forms 
 
- * [redux-form - The best way to manage your form state in Redux.](https://redux-form.com)
- * [react-redux-form - A versatile, fast, and intuitive library for creating complex and performant forms in React and Redux.](https://davidkpiano.github.io/react-redux-form/)
+ * [redux-form](https://redux-form.com)  - The best way to manage your form state in Redux.
+ * [rformik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭 
+ * [react-redux-form](https://davidkpiano.github.io/react-redux-form/)  - A versatile, fast, and intuitive library for creating complex and performant forms in React and Redux.
 
 ### Tables
 
- * [react-bootstrap-table - Bootstrap table rebuilt for React.js](http://allenfang.github.io/react-bootstrap-table/)
- * [react-table - is a lightweight, fast and extendable datagrid built for React](https://react-table.js.org/#/story/readme)
- * [react-virtualized - React components for efficiently rendering large lists and tabular data](https://github.com/bvaughn/react-virtualized)
+ * [react-bootstrap-table](http://allenfang.github.io/react-bootstrap-table/)  - Bootstrap table rebuilt for React.js
+ * [react-table](https://react-table.js.org/#/story/readme) - is a lightweight, fast and extendable datagrid built for React
+ * [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
  
 ### Datepicker
 
- * [react-datepicker - ReactJS Datepicker Crafted by HackerOne](https://hacker0x01.github.io/react-datepicker/)
- * [react-day-picker - date picker component for React](http://react-day-picker.js.org/) 
- * [react-dates - Airbnb](http://airbnb.io/projects/react-dates/)
+ * [react-datepicker](https://hacker0x01.github.io/react-datepicker/) - ReactJS Datepicker Crafted by HackerOne
+ * [react-day-picker](http://react-day-picker.js.org/) - date picker component for React
+ * [react-dates](http://airbnb.io/projects/react-dates/) - created by Airbnb
 
 
 ### Graph & Chart 
 
- * [recharts - A composable charting library built on React components](http://recharts.org/#/en-US)
- * [react-day-picker - date picker component for React](http://react-day-picker.js.org/) 
- * [react-dates - Airbnb](http://airbnb.io/projects/react-dates/)
+ * [recharts](http://recharts.org/#/en-US) - A composable charting library built on React components
+
+### Animation 
+
+ * [react-flight](http://www.react-flight.io/) - Ultra Simple Animation Compositions for React
